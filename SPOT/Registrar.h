@@ -20,6 +20,7 @@ public:
 	void getCourseOfferings();
 	void getCourseCatalog();
 	bool getCourseInfo(CourseInfo&);
+	string returntype(Course_Code Code);
 	bool checking_Pre(Course_Code Code, int year, SEMESTER semster);
 	bool checking_Co(Course_Code Code, int year, SEMESTER semster);
 	bool checking();

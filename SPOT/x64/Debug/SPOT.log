@@ -1,9 +1,19 @@
-﻿  ActionImportstudyPlan.cpp
-C:\Users\Omar El-Sakka\Desktop\Year2\C++\SPOT - CIE202 Project Code Framework\SPOT\Actions\ActionImportstudyPlan.cpp(42,15): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
-C:\Users\Omar El-Sakka\Desktop\Year2\C++\SPOT - CIE202 Project Code Framework\SPOT\Actions\ActionImportstudyPlan.cpp(75,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Omar El-Sakka\Desktop\Year2\C++\SPOT - CIE202 Project Code Framework\SPOT\Actions\ActionImportstudyPlan.cpp(76,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Omar El-Sakka\Desktop\Year2\C++\SPOT - CIE202 Project Code Framework\SPOT\Actions\ActionImportstudyPlan.cpp(78,25): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\Omar El-Sakka\Desktop\Year2\C++\SPOT - CIE202 Project Code Framework\SPOT\Actions\ActionImportstudyPlan.cpp(78,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\Omar El-Sakka\Desktop\Year2\C++\SPOT - CIE202 Project Code Framework\SPOT\Actions\ActionImportstudyPlan.cpp(78,28): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
-C:\Users\Omar El-Sakka\Desktop\Year2\C++\SPOT - CIE202 Project Code Framework\SPOT\Actions\ActionImportstudyPlan.cpp(78,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  SPOT.vcxproj -> C:\Users\Omar El-Sakka\Desktop\Year2\C++\SPOT - CIE202 Project Code Framework\x64\Debug\SPOT.exe
+﻿  ActionAddCourse.cpp
+  ActionImportstudyPlan.cpp
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(42,15): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(75,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(76,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(78,25): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(78,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(78,28): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(78,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+  Registrar.cpp
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(418,7): warning C4101: 'check_Pre': unreferenced local variable
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(508,7): warning C4101: 'checker_Co': unreferenced local variable
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(507,7): warning C4101: 'checker_Pre': unreferenced local variable
+  Generating Code...
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(481): warning C4715: 'Registrar::checking_Pre': not all control paths return a value
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(500): warning C4715: 'Registrar::checking_Co': not all control paths return a value
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionAddCourse.cpp(55): warning C4715: 'ActionAddCourse::Execute': not all control paths return a value
+  SPOT.vcxproj -> C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\x64\Debug\SPOT.exe

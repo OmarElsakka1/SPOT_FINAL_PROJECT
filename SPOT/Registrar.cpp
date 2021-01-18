@@ -413,7 +413,53 @@ bool Registrar::getCourseInfo(CourseInfo &Cinfo)
 	}
 	return false;
 }
-
+string Registrar::returntype(Course_Code Code)
+{
+	bool check_Pre;
+	for (int i = 0; i < RegRules.MajorCompulsory.size(); i++)
+	{
+		if (RegRules.MajorCompulsory[i] == Code)
+		{
+			return "Major";
+		}
+	}
+	for (int i = 0; i < RegRules.MajorElective.size(); i++)
+	{
+		if (RegRules.MajorElective[i] == Code)
+		{
+			return "Major";
+		}
+	}
+	for (int i = 0; i < RegRules.TrackCompulsory.size(); i++)
+	{
+		if (RegRules.TrackCompulsory[i] == Code)
+		{
+			return "Track";
+		}
+	}
+	for (int i = 0; i < RegRules.TrackElective.size(); i++)
+	{
+		if (RegRules.TrackElective[i] == Code)
+		{
+			return "Track";
+		}
+	}
+	for (int i = 0; i < RegRules.UnivCompulsory.size(); i++)
+	{
+		if (RegRules.UnivCompulsory[i] == Code)
+		{
+			return "University";
+		}
+	}
+	for (int i = 0; i < RegRules.UnivElective.size(); i++)
+	{
+		if (RegRules.UnivElective[i] == Code)
+		{
+			return "University";
+		}
+	}
+	return "NON";
+}
 bool Registrar::checking_Pre(Course_Code Code, int year, SEMESTER semster)
 {
 	bool check_Pre;
