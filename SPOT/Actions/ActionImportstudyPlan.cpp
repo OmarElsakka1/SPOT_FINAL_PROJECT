@@ -10,6 +10,7 @@ ActionImportStudyPlan::ActionImportStudyPlan(Registrar* p) :Action(p)
 bool ActionImportStudyPlan::Execute()
 {
 	GUI* pGUI = pReg->getGUI();
+	//C:\\Users\\Omar El-Sakka\\Desktop\\Year2\\C++\\SPOT - CIE202 Project Code Framework\\SPOT\\x64\\CIE-StudyPlan.txt
 	ifstream FILE("C:\\Users\\Omar El-Sakka\\Desktop\\Year2\\C++\\SPOT - CIE202 Project Code Framework\\SPOT\\x64\\CIE-StudyPlan.txt");
 	char* pch;
 	char* context = nullptr;

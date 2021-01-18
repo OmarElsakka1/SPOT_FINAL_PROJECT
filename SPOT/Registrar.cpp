@@ -19,6 +19,7 @@ void Registrar::getCourseCatalog()
 	char* context = nullptr;
 	const int size = 300;
 	char line[size];
+	RegRules.CourseCatalog.clear();
 	while (finput.getline(line, size)) //read file line by line
 	{ //parse the line
 		pch = strtok_s(line, ",", &context);
@@ -177,6 +178,7 @@ void Registrar::getCourseOfferings()
 	const int size = 300;
 	string redundant; //Note it is so important
 	string check;
+	RegRules.OffringsList.clear();
 	vector<Course_Code> temp;
 	char line[size];
 	while (finput.getline(line, size)) //read file line by line
@@ -259,7 +261,6 @@ void Registrar::getProgramRequirements()
 	char* context = nullptr;
 	const int size = 300;
 	char line[size];
-	Rules RegRules;
 	if (finput.getline(line, size)) //read file line by line
 	{ //parse the line
 		pch = strtok_s(line, ",", &context);
@@ -565,7 +566,6 @@ bool Registrar::checking()
 				}
 			}
 			pSPlan->set_numofcreditspersemster(year, j, number_of_credits);
-
 			if ( (number_of_credits < 12 || number_of_credits > 21) &&  (number_of_credits != 0) )//
 			{
 				string semsts;
