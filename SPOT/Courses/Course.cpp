@@ -35,6 +35,16 @@ string Course::get_Error_Status() const
 	return Error_Status_Co_Pre;
 }
 
+void Course::set_type(string typo)
+{
+	type = typo;
+}
+
+string Course::get_type() const
+{
+	return type;
+}
+
 void Course::DrawMe(GUI* pG) const
 {
 	pG->DrawCourse(this);

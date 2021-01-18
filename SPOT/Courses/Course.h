@@ -25,6 +25,8 @@ public:
 	int getCredits() const;
 	void set_Error_Status(string error);
 	string get_Error_Status() const;
+	void set_type(string error);
+	string get_type() const;
 	void DrawMe(GUI*) const;
 	virtual ~Course();
 

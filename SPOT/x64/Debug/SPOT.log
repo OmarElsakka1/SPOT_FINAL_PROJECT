@@ -7,11 +7,99 @@ C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionIm
 C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(78,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(78,28): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
 C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Actions\ActionImportstudyPlan.cpp(78,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Course.cpp
+  GUI.cpp
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(135,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(136,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(137,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(185,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(185,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(186,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(186,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(188,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(188,21): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(189,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(189,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(190,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(190,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(192,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(192,21): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(193,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(193,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(194,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(194,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(196,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(196,21): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(197,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(197,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(198,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(198,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(200,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(200,21): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(201,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(201,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(202,36): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(202,22): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(205,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(206,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(207,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(214,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(215,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(218,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(219,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(222,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(223,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(226,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(227,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(231,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(233,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(234,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(236,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(237,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(239,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(240,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(243,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(244,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(246,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(247,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(249,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(250,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(253,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(254,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(256,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(257,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(259,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(260,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(263,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(264,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(266,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(267,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(269,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(270,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(273,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(274,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(276,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(277,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(279,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(280,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(284,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(286,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(287,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(288,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(289,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(294,20): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(297,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(298,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(299,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\GUI\GUI.cpp(300,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
   Main.cpp
   Registrar.cpp
 C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(418,7): warning C4101: 'check_Pre': unreferenced local variable
 C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(508,7): warning C4101: 'checker_Co': unreferenced local variable
 C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(507,7): warning C4101: 'checker_Pre': unreferenced local variable
+  AcademicYear.cpp
+  StudyPlan.cpp
+C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\StudyPlan\StudyPlan.cpp(59,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   Generating Code...
 C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(481): warning C4715: 'Registrar::checking_Pre': not all control paths return a value
 C:\Users\Omar El-Sakka\Documents\GitHub\SPOT_FINAL_PROJECT\SPOT\Registrar.cpp(500): warning C4715: 'Registrar::checking_Co': not all control paths return a value
