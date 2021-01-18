@@ -1,0 +1,6 @@
+PHYS 102,Introduction to Electromagnatism,3,Coreq: PHYS 112,Prereq: PHYS 101 And MATH 101
+MATH 102,Calculus II,3,Prereq: MATH 101 
+ENG 151,Introduction to Computer Science,2
+CIE 205,hjsdjsahjfsdha,3
+ENGR 444,hjfgfgh,8
+CIE 318,hjgjfghfhg,7
